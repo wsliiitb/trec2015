@@ -3,7 +3,7 @@
 
 2) Extracted terms for around 13000 random abstracts and created term co-occurence graph for the same.
 
-3) For each topic we extracted terms from description and summary and type of the topic.
+3) For each topic we extracted terms from summary and type of the topic.
 
 4) We created an induced sub graph for these terms (including the type) and ran Random walk Algorithm on the induced graph. This gave us more related terms for the given input terms.
 
